@@ -13,7 +13,7 @@ Coding
 
 2. Type following codes in Main()
 
-    Notifications.AddNotification("Hello World");
+        Notifications.AddNotification("Hello World");
 
   ![Hello World codes](http://i.imgur.com/oCIe3hd.png)
 
